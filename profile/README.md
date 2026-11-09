@@ -45,8 +45,11 @@ Biz qiziquvchanlik, puxta o‘ylangan takroriy yaxshilash va mustahkam asoslarni
 ### Rasmiy havola va aloqa
 
 - [GitHub tashkiloti](https://github.com/vinse-studio)
+- [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
+- [Telegram — @vinsestudio](https://t.me/vinsestudio)
+- [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
 
-Hozircha ushbu tashkilot sahifasi VINSE Studio’ning tasdiqlangan ommaviy kanali hisoblanadi. Alohida rasmiy sayt yoki aloqa manzili ko‘rsatilmagan.
+Rasmiy ijtimoiy tarmoqlar yuqorida keltirilgan. Alohida rasmiy sayt yoki aloqa manzili ko‘rsatilmagan.
 
 ---
 
@@ -85,8 +88,11 @@ We value curiosity, deliberate iteration, and strong fundamentals. We explore id
 ### Official Link & Contact
 
 - [GitHub organization](https://github.com/vinse-studio)
+- [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
+- [Telegram — @vinsestudio](https://t.me/vinsestudio)
+- [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
 
-For now, this organization page is VINSE Studio’s verified public channel. No separate official website or contact address is listed.
+The official social channels are listed above. No separate official website or contact address is listed.
 
 ---
 
@@ -125,5 +131,8 @@ VINSE Studio — независимая студия разработки игр
 ### Официальная ссылка и контакты
 
 - [Организация на GitHub](https://github.com/vinse-studio)
+- [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
+- [Telegram — @vinsestudio](https://t.me/vinsestudio)
+- [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
 
-Пока страница организации — подтверждённый публичный канал VINSE Studio. Отдельный официальный сайт или адрес для связи не указан.
+Официальные страницы в социальных сетях перечислены выше. Отдельный официальный сайт или адрес для связи не указан.
