@@ -17,6 +17,8 @@
 
 VINSE Studio — yakkaxon asoschi tomonidan yo‘lga qo‘yilgan va mustaqil boshqariladigan o‘yin ishlab chiqish studiyasi. Biz original o‘yinlar yaratish, o‘yin jarayoni tizimlarini ishlab chiqish, mexanikalarni sinab ko‘rish va yirikroq loyihalarni amalga oshirish salohiyatini bosqichma-bosqich shakllantirishga e’tibor qaratamiz.
 
+**Asoschi va CEO:** Abubakir Gʻofurjonov
+
 ### Vizyon va missiya
 
 **Vizyon** — o‘yinchilarni kashf etishga arziydigan olamlarga chorlaydigan, o‘ziga xos va yodda qoladigan o‘yin tajribalarini yaratish.
@@ -61,6 +63,8 @@ Rasmiy ijtimoiy tarmoqlar va tashkilotning umumiy aloqa manzili yuqorida keltiri
 
 VINSE Studio is a solo-founded, independently operated game development studio. We focus on creating original games, developing gameplay systems, experimenting with mechanics, and steadily building the capabilities needed for larger-scale productions.
 
+**Founder & CEO:** Abubakir Gʻofurjonov
+
 ### Vision & Mission
 
 **Vision** — Create distinctive, memorable game experiences that invite players into worlds worth exploring.
@@ -104,6 +108,8 @@ The official social channels and the organization’s general contact email are 
 ### О студии
 
 VINSE Studio — независимая студия разработки игр, основанная одним разработчиком и самостоятельно ведущая свою деятельность. Мы сосредоточены на создании оригинальных игр, разработке игровых систем, экспериментах с механиками и постепенном развитии возможностей для более масштабных проектов.
+
+**Основатель и CEO:** Abubakir Gʻofurjonov
 
 ### Видение и миссия
 
