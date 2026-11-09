@@ -48,8 +48,9 @@ Biz qiziquvchanlik, puxta o‘ylangan takroriy yaxshilash va mustahkam asoslarni
 - [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
 - [Telegram — @vinsestudio](https://t.me/vinsestudio)
 - [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
+- Email: [vinsestudio@gmail.com](mailto:vinsestudio@gmail.com) — VINSE Studio tashkilotining umumiy aloqa manzili
 
-Rasmiy ijtimoiy tarmoqlar yuqorida keltirilgan. Alohida rasmiy sayt yoki aloqa manzili ko‘rsatilmagan.
+Rasmiy ijtimoiy tarmoqlar va tashkilotning umumiy aloqa manzili yuqorida keltirilgan. Alohida rasmiy sayt hozircha ko‘rsatilmagan.
 
 ---
 
@@ -91,8 +92,9 @@ We value curiosity, deliberate iteration, and strong fundamentals. We explore id
 - [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
 - [Telegram — @vinsestudio](https://t.me/vinsestudio)
 - [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
+- Email: [vinsestudio@gmail.com](mailto:vinsestudio@gmail.com) — general contact for the VINSE Studio organization
 
-The official social channels are listed above. No separate official website or contact address is listed.
+The official social channels and the organization’s general contact email are listed above. No separate official website is listed at this time.
 
 ---
 
@@ -134,5 +136,6 @@ VINSE Studio — независимая студия разработки игр
 - [Instagram — @vinsestudio](https://www.instagram.com/vinsestudio)
 - [Telegram — @vinsestudio](https://t.me/vinsestudio)
 - [YouTube — VINSE Studio](https://www.youtube.com/@VinseStudio)
+- Email: [vinsestudio@gmail.com](mailto:vinsestudio@gmail.com) — общий контактный адрес организации VINSE Studio
 
-Официальные страницы в социальных сетях перечислены выше. Отдельный официальный сайт или адрес для связи не указан.
+Официальные страницы в социальных сетях и общий контактный адрес организации указаны выше. Отдельный официальный сайт пока не указан.
